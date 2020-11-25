@@ -1,0 +1,22 @@
+#####Request from orders#####
+GET    http://localhost:3000/orders
+
+
+########
+POST http://localhost:3000/orders
+Content-Type: application/json
+
+        {
+            "id":"2",
+            "name" :"Franziska",
+            "table": "3",
+            "products": ["Latte", "Expresso"]
+        }
+
+
+###Delete###
+DELETE http://localhost:3000/orders/2
+
+#####Request from products#####
+GET  http://localhost:3000/products
+

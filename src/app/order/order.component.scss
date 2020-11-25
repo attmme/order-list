@@ -1,0 +1,40 @@
+
+form
+{
+  text-align: center;
+
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+mat-form-field
+{
+  width: 90%;
+}
+
+mat-list-item
+{
+  text-align: center;
+}
+
+span
+{
+  color:green;
+}
+button.productB
+{
+  width: 80%;
+}
+
+button.deleteB
+{
+  color:purple;
+  width: fit-content;
+}
+button.submit
+{
+  margin-left: 10%;
+  margin-bottom: 20px;
+  width: 80%;
+}

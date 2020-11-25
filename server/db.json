@@ -1,0 +1,34 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "name": "Miles",
+      "table": "23",
+      "products": [
+        "Mocha",
+        "capuccino"
+      ]
+    },
+    {
+      "id": "e9de17ed-7b19-4e84-9341-a58e3c0270a2",
+      "name": "Jaume Garcia Parcerisas",
+      "table": "11",
+      "products": [
+        "Americano",
+        "Americano",
+        "Latte"
+      ]
+    }
+  ],
+  "products": [
+    "Americano",
+    "capuccino",
+    "Mocha",
+    "Flat White",
+    "Latte",
+    "Espresso",
+    "Machiato",
+    "Hot Chocolate",
+    "Tea"
+  ]
+}
